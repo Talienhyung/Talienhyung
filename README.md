@@ -22,8 +22,3 @@ Here is the link to all my social networks : <br>
 Did you know I once solved a coding challenge while riding a unicycle? True story!
 
 ***
-
-### 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yyp9he9qzesdznd5mezl8ehn5)
-
