@@ -25,10 +25,6 @@ After all, true mastery comes from understanding the magic behind the code, not 
 ## Let’s Connect! 🌐
 
 If you’re a fellow student, a developer, or just someone who’s curious about the intersection of magic and technology, feel free to reach out. Let’s share ideas, collaborate on projects, or just chat about the latest in both the mystical and digital realms.
-
----
-
-Feel free to adjust any part of this README to better suit your style and the content of your GitHub profile. This should give visitors a unique and memorable introduction to who you are, both as a developer and as the Supreme Emperor of Omivahi!
 [![Linktree](https://img.shields.io/badge/link_tree-fbf1c7)](https://linktr.ee/so_rvr)
 
 ***
